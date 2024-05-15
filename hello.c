@@ -3,5 +3,7 @@
 
 int main ()
 {
-    print("This is Infoser090");
+
+    printf("This is Infoser090");
+    printf("This is Infoser090");
 }
